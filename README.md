@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🛡️ Core Competencies
+## 🛡️ Core
 
 - **🔍 Penetration Testing & Reconnaissance**: I conduct thorough vulnerability assessments and security analyses to identify and mitigate system weaknesses, ensuring protection against cyber threats.
 
